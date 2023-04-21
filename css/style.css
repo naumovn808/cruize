@@ -1322,7 +1322,6 @@ button,
 
 .header-wrapper {
   position: relative;
-  overflow-x: hidden;
 }
 
 .nav {
@@ -1448,6 +1447,10 @@ button,
 
 .nav-br {
   display: none;
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .article {
